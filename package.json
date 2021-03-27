@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "http://localhost:2021/api/products",
+  "proxy": "https://learning-management-project.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
